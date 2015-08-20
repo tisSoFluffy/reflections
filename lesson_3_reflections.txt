@@ -1,1 +1,5 @@
 Lesson_3_reflections
+
+When would you want to use a remote repository rather than keeping all your work local?
+When you are working in a team.
+When you are working on multiple computers.
